@@ -1,3 +1,5 @@
+// @author John Calderaio
+
 import java.util.Scanner;
 
 class StarWars {
